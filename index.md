@@ -15,7 +15,10 @@ More specifically, the created site:
 Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
 
 [Browse our documentation][Just the Docs] to learn more about how to use this theme.
+
 [Task](https://app.clickup.com/t/3xgxtxq)
+
+[Customer]
 
 To get started with creating a site, just click "[use this template]"!
 
@@ -29,3 +32,4 @@ To get started with creating a site, just click "[use this template]"!
 [Jekyll]: https://jekyllrb.com
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[Customer]: {{ site.baseurl }}{% link Docs/Cards/Customer/Customer.md %}
